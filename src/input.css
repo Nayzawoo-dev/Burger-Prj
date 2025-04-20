@@ -1,0 +1,11 @@
+@import "tailwindcss";
+.orcolor{
+ color:#F56529 ;
+}
+.bg-or{
+    background-color:#F56529 ;
+}
+
+.button{
+    border-color: #F56529;
+}
